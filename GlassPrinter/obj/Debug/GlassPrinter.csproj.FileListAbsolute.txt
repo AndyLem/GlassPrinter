@@ -1,0 +1,6 @@
+D:\Projects\eMoneyAdvisor\GlassPrinter\bin\Debug\GlassPrinter.exe.config
+D:\Projects\eMoneyAdvisor\GlassPrinter\bin\Debug\GlassPrinter.exe
+D:\Projects\eMoneyAdvisor\GlassPrinter\bin\Debug\GlassPrinter.pdb
+D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.exe
+D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.pdb
+D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.csprojResolveAssemblyReference.cache
