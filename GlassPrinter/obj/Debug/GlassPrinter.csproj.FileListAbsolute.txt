@@ -4,3 +4,9 @@ D:\Projects\eMoneyAdvisor\GlassPrinter\bin\Debug\GlassPrinter.pdb
 D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.exe
 D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.pdb
 D:\Projects\eMoneyAdvisor\GlassPrinter\obj\Debug\GlassPrinter.csprojResolveAssemblyReference.cache
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\bin\Debug\GlassPrinter.exe.config
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\bin\Debug\GlassPrinter.exe
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\bin\Debug\GlassPrinter.pdb
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\obj\Debug\GlassPrinter.csprojResolveAssemblyReference.cache
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\obj\Debug\GlassPrinter.exe
+d:\Projects\eMoneyAdvisor\GlassPrinter\GlassPrinter\obj\Debug\GlassPrinter.pdb

@@ -42,17 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builders\Beer\BeerBodyBuilder.cs" />
-    <Compile Include="Builders\Beer\BeerGlassBuilder.cs" />
-    <Compile Include="Builders\EmptyBuilder.cs" />
     <Compile Include="Builders\Martini\MartiniBodyBuilder.cs" />
     <Compile Include="Builders\Martini\MartiniGlassBuilder.cs" />
-    <Compile Include="Builders\SimpleGlassBuilder.cs" />
-    <Compile Include="Builders\Wine\WineBodyBuilder.cs" />
-    <Compile Include="Builders\Wine\WineGlassBuilder.cs" />
-    <Compile Include="Entities\GlassType.cs" />
-    <Compile Include="Statics\Beer\BeerGlassFillers.cs" />
-    <Compile Include="Statics\Beer\BeerGlassMetrics.cs" />
     <Compile Include="Statics\Martini\MartiniGlassFillers.cs" />
     <Compile Include="Statics\Martini\MartiniGlassMetrics.cs" />
     <Compile Include="Builders\Martini\MartiniLegBuilder.cs" />
